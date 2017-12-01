@@ -31,10 +31,9 @@ class VistaSoft {
     }
 
 
-//    private $apikey = 'c9fdd79584fb8d369a6a579af1a8f681';
+//    private $apikey = 'YOUR_API_KEY';
 //    private $urlbase = 'sandbox-rest.vistahost.com.br';
     private $apikey = 'YOUR_API_KEY';
-//    private $url_client = 'acacia12-db.vistahost.com.br';
     private $url_client = 'YOUR_URL_CLIENT';
     private $method;
     private $fields = array();
